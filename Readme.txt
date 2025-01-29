@@ -154,4 +154,4 @@ To confirm that the drone is properly controlled via MAVSDK:
 - Customize flight paths using `waypoints.txt`.
 - Implement real-world tests on the Alta X drone.
 
-This guide provides all the necessary steps to get PX4 and JMAVSim running on WSL. If you encounter any issues, refer to the PX4 documentation or the GitHub community for support.
+This guide provides all the necessary steps to get PX4 and JMAVSim running on WSL. 
