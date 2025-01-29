@@ -1,5 +1,8 @@
 Python Script to Control a Drone and Fly an Arbitrary Pattern Using WSL (Ubuntu)
 
+Demo Video: https://drive.google.com/file/d/11UCyAhw8Gy23ghZZH6BgvRXl0nr0K21Y/view?usp=sharing
+Log Analysis: https://review.px4.io/plot_app?log=d8937207-9899-42a0-be0f-4c49ecc43256
+
 This document provides step-by-step instructions to set up PX4 and JMAVSim on Windows Subsystem for Linux (WSL) with Ubuntu and execute a Python script to control a drone and fly an arbitrary pattern defined in a text file.
 
 ---
@@ -152,4 +155,4 @@ To confirm that the drone is properly controlled via MAVSDK:
 - Customize flight paths using `waypoints.txt`.
 - Implement real-world tests on the Alta X drone.
 
-This guide provides all the necessary steps to get PX4 and JMAVSim running on WSL. If you encounter any issues, refer to the PX4 documentation or the GitHub community for support.
+This guide provides all the necessary steps to get PX4 and JMAVSim running on WSL. 
