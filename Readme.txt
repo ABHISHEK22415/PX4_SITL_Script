@@ -108,7 +108,7 @@ To modify the drone's flight path, update the `waypoints.txt` file:
 3. Save and exit (for nano, press `CTRL+X`, then `Y`, and `ENTER`).
 4. Restart the MAVSDK script to apply the new waypoints:
    
-   python3 drone_controller.py
+   python3 test.py
    
 ---
 
