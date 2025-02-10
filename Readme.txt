@@ -87,7 +87,7 @@ To run your MAVSDK-based flight controller on WSL:
    
 4. Open a new terminal and run your Python script:
    
-   python3 drone_controller.py
+   python3 test.py
    
 ---
 
@@ -120,9 +120,9 @@ To confirm that the drone is properly controlled via MAVSDK:
    cd PX4-Autopilot
    source Tools/setup_gazebo.bash $(pwd) $(pwd)/build/px4_sitl_default
    
-2. Run a MAVSDK script (e.g., `drone_controller.py`):
+2. Run a MAVSDK script (e.g., `test.py`):
    
-   python3 drone_controller.py
+   python3 test.py
    
 ---
 
